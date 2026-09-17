@@ -12,6 +12,7 @@ SoundFile; sys_platform == 'win32'
 torch>=2.11.0
 torchaudio>=2.11.0
 tqdm>=4.42.0
-transformers>=4.57.0
+transformers>=5.10.0
+setuptools>=83.0.0
 librosa
 matplotlib
