@@ -9,7 +9,7 @@ git clone https://github.com/jzmzhong/GenAID.git
 cd GenAID
 conda create -n speechbrain python==3.10
 conda activate speechbrain
-conda install pytorch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 pytorch-cuda=11.8 -c pytorch -c nvidia
+conda install pytorch==2.13.0 torchvision==0.28.0 torchaudio==2.13.0 pytorch-cuda=12.1 -c pytorch -c nvidia
 pip install -r requirements.txt
 pip install --editable .
 ```
