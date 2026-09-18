@@ -37,7 +37,7 @@ setup(
         "packaging",
         "scipy",
         "sentencepiece",
-        "torch>=2.11.0",
+        "torch>=2.13.0",
         "torchaudio>=2.11.0",
         "tqdm",
         "huggingface_hub",
